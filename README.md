@@ -44,38 +44,26 @@ npm start
 3. Click **New Web Service** → **Connect GitHub Repo**.
 4. Select your **backend repository**.
 5. Set the **Start Command**:
-   ```sh
    npm start
-   ```
 6. Click **Deploy**.
 
-🚀 Your backend will be live at:
-```
-https://resume-ai-backend.onrender.com
-```
+🚀 Your backend will be live at:🚀 
+https://resume-ai-backend-uxiq.onrender.com
 
 ### ✅ **Deploying on Heroku**
 1. Install **Heroku CLI**:
-   ```sh
    npm install -g heroku
-   ```
 2. Login and create an app:
-   ```sh
    heroku login
    heroku create resume-ai-backend
-   ```
 3. Deploy the backend:
-   ```sh
    git push heroku main
-   ```
 
 ### ✅ **Deploying on Railway**
 1. **Go to [Railway](https://railway.app/)** and sign up.
 2. **Create a new project** → **Connect GitHub repo**.
 3. Set the **Start Command**:
-   ```sh
    npm start
-   ```
 4. Click **Deploy**.
 
 ---
